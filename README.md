@@ -1,7 +1,7 @@
 # metaMonitor
 Lightweight batch script to ensure Metatrader Terminals are always running
 
-=======
+---
 # 🖥️ metaMonitor.bat
 
 **metaMonitor** is a lightweight batch script that monitors and ensures your MetaTrader 4/5 terminals are always running. If a terminal is not found, it will automatically restart it using its `.exe` path or an optional `.lnk` shortcut.

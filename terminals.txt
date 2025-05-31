@@ -1,0 +1,16 @@
+# Here you can find the example of how to list the metatrader terminals you would like to monitor.
+# As you can see, you must specify the full path and OPTIONALLY, the path to its shortcut. This is
+# useful if you use shortcuts with custom icons
+
+# Metatrader 4 terminal
+C:\Program Files (x86)\Metatrader 4\terminal.exe
+
+# Metatrader 4 terminal with custom shortcut
+C:\Program Files (x86)\Metatrader 4\terminal.exe;C:\Users\ibitebyt3s\Desktop\My_metatrader_shortcut.lnk
+
+# Metatrader 5 terminal
+C:\Program Files\MetaTrader 5\terminal64.exe
+
+# Metatrader 5 terminal with custom shortcut
+C:\Program Files\MetaTrader 5\terminal64.exe;C:\Users\ibitebyt3s\Desktop\My_metatrader_5_shortcut.lnk
+

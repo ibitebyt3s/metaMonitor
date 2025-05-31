@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # metaMonitor
 Lightweight batch script to ensure Metatrader Terminals are always running
 =======
@@ -155,4 +154,3 @@ C:\Users\ibitebyt3s\Documents\metaMonitor\metaMonitor.log
 Built with care by [@ibitebyt3s](https://github.com/ibitebyt3s)
 Helping traders keep their MetaTrader terminals up and running — always.
 
->>>>>>> 485d9d8 (update README.md)
